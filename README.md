@@ -18,6 +18,4 @@ Add the ready account session to the as_human_userbot/sessions folder.
 After installing and configuring dependencies, you can run the bot:
     python as_human_bot.py
 
-On server 31.128.36.224 it works in daemon mode, service file is called - as_human.service
-
 Add to env: OPENAI_API_KEY = '' PROXY="" ASSISTANT=""
