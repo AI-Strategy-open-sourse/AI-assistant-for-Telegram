@@ -8,13 +8,13 @@ This bot helps to form technical specifications for software development. Works 
     cd transcribe_bot
 ```
 
-3. Create a virtual environment and activate it (Use python 3.11):
+2. Create a virtual environment and activate it (Use python 3.11):
 ```bash
     python3 -m venv venv
     source venv/bin/activate
 ```
 
-4. Install dependencies:
+3. Install dependencies:
 ```bash
    pip install -r requirements.txt
 ```
